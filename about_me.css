@@ -1,0 +1,47 @@
+body{
+  background-color: #00FFFF;
+}
+img {
+    height: 225px;
+  }
+  .favorite_color {
+    Color:#3333CC;
+  }
+img {
+    border: 5px solid blue;
+    padding: 1px;
+    margin: 25px;
+}
+h1 {
+   font-size: 222%;
+  text-align: center;
+display: inline;
+  background-color: #1AA3FF;
+  margin: 1px;
+  width: 1px;
+  height: 1px;
+}
+h2 {
+  text-align: center;
+}
+strong {
+  text-align: left;
+  display: block;
+  font-size: 150%;
+  margin: 15px;
+}
+.all {
+  font-family: Noteworthy;
+  color: #0000FF;
+}
+em {
+  font-family: Comic Sans MS;
+  color: #0000FF;
+  font-size: 111%;
+}
+.thx {
+  font-size: 125%;
+  text-align: center;
+  font-family: Noteworthy;
+  color: #0000FF;
+}
